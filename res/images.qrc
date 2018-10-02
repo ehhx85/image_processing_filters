@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="astronaut">images/astronaut.jpg</file>
+        <file alias="chart_gray">images/chart_gray.bmp</file>
+        <file alias="elephants">images/elephants.jpg</file>
+        <file alias="Lenna">images/Lenna.png</file>
+        <file alias="moon">images/moon.jpg</file>
+        <file alias="moon (blurred)">images/moon_blurred.png</file>
+        <file alias="pollen">images/pollen.jpg</file>
+        <file alias="test_pattern">images/test_pattern.tif</file>
+        <file alias="woman">images/woman.tif</file>
+    </qresource>
+</RCC>

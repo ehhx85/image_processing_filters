@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Average (Box)">filters/average_box.filter</file>
+        <file alias="Average (Weighted)">filters/average_weighted.filter</file>
+        <file alias="Copy (Default)">filters/copy_positive.filter</file>
+        <file alias="Copy (Negative)">filters/copy_negative.filter</file>
+        <file alias="Copy 3x3">filters/copy_3.filter</file>
+        <file alias="Copy 5x5">filters/copy_5.filter</file>
+        <file alias="Copy 11x11">filters/copy_11.filter</file>
+        <file alias="Gradient (Horizontal)">filters/sobel_horizontal.filter</file>
+        <file alias="Gradient (Vertical)">filters/sobel_vertical.filter</file>
+        <file alias="Gradient (Absolute Value)">filters/sobel_absolute_value.filter</file>
+        <file alias="Gradient (Square Root)">filters/sobel_square_root.filter</file>
+        <file alias="Laplacian 1">filters/laplacian_1.filter</file>
+        <file alias="Laplacian 2">filters/laplacian_2.filter</file>
+        <file alias="Laplacian 3">filters/laplacian_3.filter</file>
+        <file alias="Laplacian 4">filters/laplacian_4.filter</file>
+        <file alias="Max Reset">filters/max.filter</file>
+        <file alias="Median 3x3">filters/median_3x3.filter</file>
+        <file alias="Median 5x5">filters/median_5x5.filter</file>
+        <file alias="Min Reset">filters/min.filter</file>
+        <file alias="Orientation Check">filters/orientation_check.filter</file>
+    </qresource>
+</RCC>
